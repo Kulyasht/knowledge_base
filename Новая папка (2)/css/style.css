@@ -1,0 +1,30 @@
+.montserrat-<uniquifier > {
+	font-family: 'Montserrat', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color: #fff;
+	line-height: 1.6;
+}
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+	text-decoration: none;
+	outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
